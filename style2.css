@@ -1,0 +1,121 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container1{
+    padding: 150px;
+    height: 10px;
+}
+
+.container1 h1{
+    line-height: 40px;
+    text-align: center;
+    font-size: 26px;
+    font-family: cursive; 
+}
+
+.container1 img{
+    position: absolute;
+    top: 100px;
+    right: 212px;
+    width: 60px;
+}
+
+
+
+.container2 img{
+    position: absolute;
+    right:180px;
+    top: 330px;
+    border: 3px solid black;
+    border-radius: 79px;
+    width: 30%;
+}
+
+.container2 h1{
+    text-align: center;
+    margin-top: 190px;
+    font-size: 40px;
+    font-family: sans-serif; 
+    color: #66bfbf;
+}
+.container2 p{
+    text-align: center;
+    color: #40514e;
+    line-height: 2;
+    font-size: 18px;
+}
+
+
+
+
+
+.container3 h2{
+    text-align: center; 
+    font-size: 35px;
+    font-family: sans-serif; 
+    color: #66bfbf;
+}
+
+.container3 img{
+    position: absolute;
+    width: 24%; 
+    left: 40px;
+    top: 850px;
+}
+
+.container3 h3{
+    margin-left:180px;
+    color: #66bfbf; 
+}
+
+.container3 p{
+    margin-left:180px;
+    line-height:2;
+    color: #40514e;
+}
+
+
+.container3 h4{
+    margin-left:40px;
+    font-size: 24px;
+    color: #66bfbf; 
+}
+
+.container3 .dance{
+    margin-left:40px;
+    line-height:2;
+    color: #40514e;
+}
+
+.dancee img{
+    position: absolute;
+    width: 19%;
+    right: 90px;
+    top:1100px;;
+}
+
+
+
+
+.container4 h3{
+    margin-left:30px;
+}
+
+.container4 button{
+    margin-left: 169px;
+    width: 30%;
+    }
+
+
+
+.bottom ul{
+    margin-left: 1px;
+}
+.bottom li{
+    padding: 38px;
+    font-size: 13px;
+}
+
+
